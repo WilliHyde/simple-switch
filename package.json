@@ -1,0 +1,39 @@
+{
+  "name": "simple-switch",
+  "version": "0.0.1",
+  "description": "Simple replacement for HTML radio buttons and checkboxes.",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "babel": "*",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-zip": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliHyde/simple-switch.git"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "js",
+    "radio",
+    "checkbox"
+  ],
+  "author": "William Hyde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WilliHyde/simple-switch/issues"
+  },
+  "homepage": "https://github.com/WilliHyde/simple-switch#readme",
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-preset-es2015": "^6.13.2"
+  }
+}
